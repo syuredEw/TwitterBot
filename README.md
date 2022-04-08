@@ -1,0 +1,2 @@
+# TwitterBot
+pythonでトレンド1位のワードを取得し，そこから関連するワードをWordCloudで可視化し，ツイートする．
